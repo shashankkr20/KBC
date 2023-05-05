@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/KBC/static/css/main.0b16f2ad.css",
-    "main.js": "/KBC/static/js/main.d8d85209.js",
+    "main.js": "/KBC/static/js/main.74937e6b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/KBC/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/clock.mp3": "/KBC/static/media/clock.b3d6954350229559f8de.mp3",
     "static/media/KBC.jpg": "/KBC/static/media/KBC.1f33fb362d89a07d51c5.jpg",
     "static/media/optlock.mp3": "/KBC/static/media/optlock.4bbe39df5fd74888df15.mp3",
     "static/media/ques.mp3": "/KBC/static/media/ques.fb3c04cd26061e5ae43c.mp3",
+    "static/media/crore.mp3": "/KBC/static/media/crore.348418fab87d5d69f285.mp3",
     "static/media/wrong.mp3": "/KBC/static/media/wrong.8201c8ba6e2ac82e2a67.mp3",
     "index.html": "/KBC/index.html",
     "main.0b16f2ad.css.map": "/KBC/static/css/main.0b16f2ad.css.map",
-    "main.d8d85209.js.map": "/KBC/static/js/main.d8d85209.js.map",
+    "main.74937e6b.js.map": "/KBC/static/js/main.74937e6b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/KBC/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b16f2ad.css",
-    "static/js/main.d8d85209.js"
+    "static/js/main.74937e6b.js"
   ]
 }
